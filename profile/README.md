@@ -12,6 +12,7 @@ At Daydream.Tech, our mission is to empower individuals to dream, create, and in
 - **Web3 Technologies**: Dive into the world of decentralized applications, blockchain technology, and smart contracts with our web3 experts.
 - **Microcontroller Marvels**: Explore the possibilities of microcontroller technology, including Arduino-based projects, IoT applications, and robotics.
 - **Web Development**: Sharpen your skills in web development, from front-end frameworks to back-end technologies, with our diverse range of resources and projects.
+- **Cyber Security**: explore the world of securing your websites and applications after their development.
 
 ## Get Involved
 Join our community today to connect with like-minded individuals, participate in exciting projects, and stay up-to-date with the latest trends in technology. Whether you're a seasoned developer or just starting out, there's a place for you at Daydream.Tech!
